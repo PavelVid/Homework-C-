@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WEB\\GeekBrains\\Homework  C#\\Seminar 1\\Seminar 1.csproj",
-      "projectName": "Seminar 1",
-      "projectPath": "D:\\WEB\\GeekBrains\\Homework  C#\\Seminar 1\\Seminar 1.csproj",
+      "projectUniqueName": "D:\\WEB\\GeekBrains\\Homework  C#\\Seminar 1\\1\\1.csproj",
+      "projectName": "1",
+      "projectPath": "D:\\WEB\\GeekBrains\\Homework  C#\\Seminar 1\\1\\1.csproj",
       "packagesPath": "C:\\Users\\pavel\\.nuget\\packages\\",
-      "outputPath": "D:\\WEB\\GeekBrains\\Homework  C#\\Seminar 1\\obj\\",
+      "outputPath": "D:\\WEB\\GeekBrains\\Homework  C#\\Seminar 1\\1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pavel\\AppData\\Roaming\\NuGet\\NuGet.Config"
