@@ -4,17 +4,17 @@
 // a = 2 b = 10->max = 10
 // a = -9 b = -3->max = -3
 
-Console.WriteLine("Введите число a: ");
+Console.Write("Введите число a: ");
 int num_A = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine("Введите число b: ");
+Console.Write("Введите число b: ");
 int num_B = Convert.ToInt32(Console.ReadLine());
 
 if (num_A > num_B)
 {
-   Console.WriteLine("число a " + num_A + " больше чем число b " + num_B);
+   Console.WriteLine("число " + num_A + " больше чем число " + num_B);
 }
 else
 {
-   Console.WriteLine("число b " + num_B + " больше чем число a " + num_A);
+   Console.WriteLine("число " + num_B + " больше чем число " + num_A);
 }
